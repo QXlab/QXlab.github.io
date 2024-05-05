@@ -10,9 +10,11 @@ author_profile: true
 {% endif %}
 
 ***Journal articles***
+
 (Corresponding authors are marked with \*)
 
-* Wang, Y., Liu, S., & **Xiao, Q.\* ** (2024+), "Construction of Orthogonal-MaxPro Latin Hypercube Designs", Journal of Quality Technology, Accept.
+* Wang, Y., Liu, S., & __Xiao, Q.\*__ (2024+), Construction of Orthogonal-MaxPro Latin Hypercube Designs, _Journal of Quality Technology_, Accept.
+* __Xiao, Q.__, Wang, Y., Mandal, A. & Deng, X.\* (2024), [Modeling and active learning for experiments with quantitative-sequence factors](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2123335), _Journal of the American Statistical Association_, 119: 407-421.
 
 {% include base_path %}
 
