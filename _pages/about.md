@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(If this page does not display appropriately, please zoom out to 90%)
+(If not displaying appropriately, please zoom out the page.)
 
 I am an associate professor. This is Dr. Test Account's home on the web!
 
