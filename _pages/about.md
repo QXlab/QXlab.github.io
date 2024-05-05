@@ -18,12 +18,17 @@ I am an associate professor. lalala~~~
 ***Education***
 
 * Ph.D. in Statistics, University of California Los Angeles (UCLA) 2012-2017
-* Bachelor of Economics, Central University of Finance and Economics, 2008-2012
+* Bachelor of Economics, Central University of Finance and Economics (中央财经大学), 2008-2012
 
 ***Contact***
 
 * Email: qian.xiao@uga.edu
 * Office: Brooks Hall 454
 * Office Phone: 706-542-7338
+
+***Current Students***
+* Xiaotian Zhang (Phd student)
+* Qiang Zhao (visiting Phd student)
+* Chunwei Zheng (visiting Phd student)
 
 
