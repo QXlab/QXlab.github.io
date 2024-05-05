@@ -24,9 +24,9 @@ author:
   avatar           : "qx.jpg"
   name             : "Dr. Qian Xiao"
   pronouns         : # example: "he/his"  
-  bio              : "Associate professor in Statistics"
+  bio              : "Associate professor"
   location         : "Athen, GA, USA"
-  employer         : "University of Georgia"
+  employer         : "Department of Statistics, University of Georgia"
   uri              : # URL
   email            : "qian.xiao@uga.edu" 
 
