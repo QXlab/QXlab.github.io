@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+(If this page does not display appropriately, please zoom out to 90%)
 
 I am an associate professor. 
 
-QX's Personal Website
+Contact
 ======
 [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. 
 
