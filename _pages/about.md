@@ -22,10 +22,8 @@ I am an associate professor. lalala~~~
 
 ***Contact***
 
-qian.xiao@uga.edu
-
-Office: Brooks Hall 454
-
-Office Phone: 706-542-7338
+* Email: qian.xiao@uga.edu
+* Office: Brooks Hall 454
+* Office Phone: 706-542-7338
 
 
