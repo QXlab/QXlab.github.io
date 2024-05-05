@@ -8,7 +8,7 @@ redirect_from:
 ---
 (I am working on this page. It is not completed it yet!!!)
 
-I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univeristy of Georgia. \
+I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univeristy of Georgia. &nbsp
 
 
 ***Research Interest***
