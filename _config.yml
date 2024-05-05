@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Qian Xiao"
+title                    : "About Qian Xiao"
 title_separator          : "-"
 name                     : &name "Dr. Qian Xiao"
 description              : &description "Associate professor at University of Georgia"
