@@ -11,7 +11,7 @@ I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univer
 
 Welcome to our Statistical Laboratory! We specialize in experimental data science, uncertainty quantification and reinforcement learning. Join us in exploring these dynamic fields and collaborating on innovative research. All students are warmly encouraged to apply to our program, and I am willing to discuss opportunities with you.
 
-欢迎来到我们的主页！我们专注于研究实验数据科学、不确定性量化和强化学习等统计学问题。欢迎各位学生踊跃申请我们的项目。加入我们，共同探索这些充满活力的领域，合作开展创新研究。如有需要，请与我联系。
+欢迎来到我们的主页！我们专注于研究实验数据科学、不确定性量化和强化学习等统计学问题。加入我们，共同探索这些充满活力的领域，合作开展创新研究。欢迎各位学生踊跃申请我们的项目。如有需要，请与我联系。
 
 
 ***Research Interest***
