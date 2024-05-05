@@ -9,7 +9,10 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Construction of Orthogonal-MaxPro Latin Hypercube Designs
+***Journal articles***
+(Corresponding authors are marked with \*)
+
+* Wang, Y., Liu, S., & **Xiao, Q.\* ** (2024+), "Construction of Orthogonal-MaxPro Latin Hypercube Designs", Journal of Quality Technology, Accept.
 
 {% include base_path %}
 
