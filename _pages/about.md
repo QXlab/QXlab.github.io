@@ -6,23 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(If not displaying appropriately, please zoom out the page.)
+(I am working on this page. It is not completed it yet!!!)
 
-I am an associate professor. This is Dr. Test Account's home on the web!
+I am an associate professor. lalala~~~
 
-Employment
-======
-*Associate professor with tenure, Department of Statistics, Univeristy of Georgia, 2024
+***Working Experience***
 
-Education
-======
-*UCLA
+* Associate professor, Department of Statistics, Univeristy of Georgia, 2023-
+* Assistant professor, Department of Statistics, Univeristy of Georgia, 2017-2023
 
-Contact
-======
-[GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. 
+***Education***
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* Ph.D. in Statistics, University of California Los Angeles (UCLA) 2012-2017
+* Bachelor of Economics, Central University of Finance and Economics, 2008-2012
+
+***Contact***
+qian.xiao@uga.edu
+Office: Brooks Hall 454
+Office Phone: 706-542-7338
 
 
