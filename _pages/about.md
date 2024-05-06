@@ -46,7 +46,7 @@ I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univer
 * Served as a guest editor for the AISC 2022 Special Issue of the Journal of Statistical Theory and Practice.
 
 ***Funding***
-*PI of NSF-DMS (awarded 2023)
+* PI of NSF-DMS (awarded 2023)
 
 
 
