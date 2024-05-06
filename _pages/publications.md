@@ -31,7 +31,7 @@ author_profile: true
 * __Xiao, Q.__, & Xu, H.\* (2018), [Construction of maximin distance designs via level permutation and expansion](https://www3.stat.sinica.edu.tw/statistica/oldpdf/A28n314.pdf), _Statistica Sinica_, 28, 1395-1414.
 * __Xiao, Q.__, & Xu, H.\* (2017), [Construction of maximin distance Latin squares and related Latin hypercube designs](https://academic.oup.com/biomet/article-abstract/104/2/455/3058134?redirectedFrom=fulltext), _Biometrika_, 104, 455--464.
 
-***Book Chapters***
+***Book chapters***
 
 * Jankar, J., Wang, H., Wilkes, L.R., __Xiao, Q.__ & Mandal, A*. (2022), [Design and Analysis of Complex Computer Models](https://link.springer.com/chapter/10.1007/978-981-16-7857-8_2). In: Srinivas R., Kumar R., Dutta M. (eds) Advances in Computational Modeling and Simulation. Lecture Notes in Mechanical Engineering. Springer, Singapore.
 
