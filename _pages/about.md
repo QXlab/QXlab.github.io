@@ -47,6 +47,7 @@ I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univer
 
 ***Funding***
 * PI of NSF-DMS (awarded 2023)
+* PI of UGA-JFSG in STEM (awarded 2019)
 
 
 
