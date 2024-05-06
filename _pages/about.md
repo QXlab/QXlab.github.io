@@ -41,4 +41,8 @@ I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univer
 * Qiang Zhao (visiting Phd student)
 * Chunwei Zheng (visiting Phd student)
 
+  ***Service***
+  * Served as an associate editor for Journal of the Indian Society for Probability and Statistics (ESCI).
+  * Served as a guest editor for the AISC 2022 Special Issue of the Journal of Statistical Theory and Practice.
+
 
