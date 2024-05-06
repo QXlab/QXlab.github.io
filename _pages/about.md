@@ -32,7 +32,7 @@ I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univer
 
 ***Contact***
 
-* Email: qian.xiao@uga.edu
+* Email: qian.xiao(at)uga.edu
 * Office: Brooks Hall 454
 * Office Phone: 706-542-7338
 
