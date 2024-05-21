@@ -10,9 +10,6 @@ redirect_from:
 
 I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univeristy of Georgia. Welcome to our Statistical Laboratory! We specialize in experimental data science, uncertainty quantification and reinforcement learning. Join us in exploring these dynamic fields and collaborating on innovative research. All students are warmly encouraged to apply to our program, and I am willing to discuss opportunities with you.
 
-欢迎来到我的主页！我们专注于实验数据科学、不确定性量化以及强化学习等统计问题的研究。加入我们，共同探索这些充满活力的领域。
-
-
 ***Research Interest***
 
 * Experimental data science
@@ -46,7 +43,7 @@ I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univer
 * Served as a guest editor for the AISC 2022 Special Issue of the Journal of Statistical Theory and Practice.
 
 ***Funding***
-* PI of NSF-DMS (awarded 2023)
+* PI of NSF-DMS-2311186 (awarded 2023)
 * PI of UGA-JFSG in STEM (awarded 2019)
 
 
