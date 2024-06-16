@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "About Qian Xiao"
 title_separator          : "-"
 name                     : &name "Dr. Qian Xiao"
-description              : &description "Associate professor at University of Georgia"
+description              : &description "Associate professor at SJTU"
 url                      : https://qxlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qxlab.github.io/"
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "Associate Professor"
   location         : "Athen, GA, USA"
-  employer         : "Statistics, UGA"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "qian.xiao@uga.edu" 
+  email            : "sjtu0041527@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
