@@ -8,7 +8,9 @@ redirect_from:
 ---
 (Please zoom out if the page doesn't display appropriately.)
 
-I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univeristy of Georgia. Welcome to our Statistical Laboratory! We specialize in experimental data science, uncertainty quantification and reinforcement learning. Join us in exploring these dynamic fields and collaborating on innovative research. All students are warmly encouraged to apply to our program, and I am willing to discuss opportunities with you.
+I am Qian Xiao (肖骞), currently a tenured associate professor in the Dept. of Statistics, School of Mathematical Sciences, Shanghai Jiao Tong University. Welcome to our Statistical Laboratory! We specialize in experimental data science, uncertainty quantification and reinforcement learning. Join us in exploring these dynamic fields and collaborating on innovative research. 
+
+My team welcome all students with interests. I am willing to discuss opportunities with you.
 
 ***Research Interest***
 
@@ -19,24 +21,23 @@ I am Qian Xiao (肖骞), an associate professor in Dept. of Statistics at Univer
 
 ***Working Experience***
 
-* Associate professor, Department of Statistics, Univeristy of Georgia, 2023-
+* Associate professor with tenure, Department of Statistics, Shanghai Jiao Tong University, 2024-now
+* Associate professor with tenure, Department of Statistics, Univeristy of Georgia, 2023-2024
 * Assistant professor, Department of Statistics, Univeristy of Georgia, 2017-2023
 
 ***Education***
 
 * Ph.D. in Statistics, University of California Los Angeles (UCLA) 2012-2017
-* Bachelor of Economics, Central University of Finance and Economics (中央财经大学), 2008-2012
+* Bachelor of Economics, Central University of Finance and Economics, 2008-2012
 
 ***Contact***
 
-* Email: qian.xiao(at)uga.edu
-* Office: Brooks Hall 454
-* Office Phone: 706-542-7338
+* Email: xiaoqian1990v(at)gmail.com; sjtu0041527(at)sjtu.edu.cn
 
 ***Current Students***
-* Xiaotian Zhang (Phd student)
-* Qiang Zhao (visiting Phd student)
-* Chunwei Zheng (visiting Phd student)
+* Xiaotian Zhang (Phd student at UGA)
+* Qiang Zhao (visiting Phd student at UGA)
+* Chunwei Zheng (visiting Phd student at UGA)
 
 ***Service***
 * Served as an associate editor for Journal of the Indian Society for Probability and Statistics (ESCI).
