@@ -28,12 +28,7 @@ My team welcome all students with interests. I am willing to discuss opportuniti
 * Bachelor of Economics, Central University of Finance and Economics, 2008-2012
 
 ***Contact***
-* Email: xiaoqian1990v(at)gmail.com; sjtu0041527(at)sjtu.edu.cn
-
-***Current Students***
-* Xiaotian Zhang (Phd student at UGA)
-* Qiang Zhao (visiting Phd student at UGA)
-* Chunwei Zheng (visiting Phd student at UGA)
+* Email: xiaoqian1990v(at)gmail.com;
 
 ***Service***
 * Served as an associate editor for Journal of the Indian Society for Probability and Statistics (ESCI).
