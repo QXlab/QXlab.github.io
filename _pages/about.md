@@ -35,6 +35,7 @@ My team welcome all students with interests. I am willing to discuss opportuniti
 * Served as a guest editor for the AISC 2022 Special Issue of the Journal of Statistical Theory and Practice.
 
 ***Funding***
+* 国家级青年人才项目
 * PI of NSF-DMS-2311186 (awarded 2023)
 * PI of UGA-JFSG in STEM (awarded 2019)
 
