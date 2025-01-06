@@ -35,7 +35,7 @@ My team welcome all students with interests. I am willing to discuss opportuniti
 * Served as a guest editor for the AISC 2022 Special Issue of the Journal of Statistical Theory and Practice.
 
 ***Funding***
-* 国家级青年人才项目，主持。
+* 国家级青年人才项目。
 * 国家重点研发计划青年科学家项目（National Key R&D Program of China），2024–2029，主持(PI)。
 * PI of NSF-DMS-2311186 (awarded 2023)
 * PI of UGA-JFSG in STEM (awarded 2019)
