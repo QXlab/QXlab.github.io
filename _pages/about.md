@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-(Please zoom out if the page doesn't display appropriately.)
+[My Homepage at SJTU website](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLGIfpmFtKF2)
 
 I am Qian Xiao (肖骞), currently a tenured associate professor in the Dept. of Statistics, School of Mathematical Sciences, Shanghai Jiao Tong University. Welcome to our Statistical Laboratory! We specialize in experimental data science, uncertainty quantification and reinforcement learning. Join us in exploring these dynamic fields and collaborating on innovative research. 
 
