@@ -12,8 +12,8 @@ author_profile: true
 ***Journal articles***
 (Corresponding authors marked by \*)
 
-* Li Y, Zhang Y,  __Xiao, Q.*__ & Wu J, (2025+), [Noise Resistant Control Charts for Detecting Periodicity from Correlation](https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2460584), _Technometrics_，https://doi.org/10.1080/00401706.2025.2460584, in press.
-* Wang Y, Liu S, & __Xiao, Q.*__ (2025+), [Optimal design of experiment with quantitative-sequence factors](https://arxiv.org/abs/2502.03241), _SCIENTIA SINICA Mathematica_，https://doi.org/10.1360/SCM-2024-0039, in press.
+* Li Y, Zhang Y,  __Xiao, Q.*__ & Wu J, (2025+), [Noise Resistant Control Charts for Detecting Periodicity from Correlation](https://www.tandfonline.com/doi/full/10.1080/00401706.2025.2460584), _Technometrics_，published online.
+* Wang Y, Liu S, & __Xiao, Q.*__ (2025+), [Optimal design of experiment with quantitative-sequence factors](https://arxiv.org/abs/2502.03241), _SCIENTIA SINICA Mathematica_，published online ([English version](https://arxiv.org/abs/2502.03241); [Chinese version](https://www.sciengine.com/SSM/doi/10.1360/SCM-2024-0039)).
 * __Xiao, Q.__, Wang, Y., Mandal, A. & Deng, X.\* (2024), [Modeling and active learning for experiments with quantitative-sequence factors](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2123335), _Journal of the American Statistical Association_, 119: 407-421. [(Arxiv)](https://arxiv.org/abs/2209.02644)
 * Wang, Y., Liu, S., & __Xiao, Q.\*__ (2024), Construction of Orthogonal-MaxPro Latin Hypercube Designs, _Journal of Quality Technology_,  56(4):342-354.
 * __Xiao, Q.__, Joseph V. R.\*, & Ray. D. M. (2023), [Maximum one-factor-at-a-time designs for screening in computer experiments](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2141897), _Technometrics_, 65(2), 220–230. [(R package)](https://cran.r-project.org/web/packages/MOFAT/index.html)
