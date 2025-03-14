@@ -24,8 +24,8 @@ My team welcome all students with interests. I am willing to discuss opportuniti
 * Assistant professor, Department of Statistics, Univeristy of Georgia, 2017-2023
 
 ***Education***
-* Ph.D. in Statistics, University of California Los Angeles (UCLA) 2012-2017
-* Bachelor of Economics, Central University of Finance and Economics, 2008-2012
+* Ph.D. in Statistics, University of California Los Angeles (UCLA), USA, 2012-2017
+* Bachelor of Economics, Central University of Finance and Economics, China, 2008-2012
 
 ***Contact***
 * Email: xiaoqian1990v(at)gmail.com;
